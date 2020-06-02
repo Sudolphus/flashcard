@@ -8,4 +8,5 @@ $(document).ready(function() {
     $("#operatorName").toggle();
     $("#operatorDef").toggle();
   })
+
 })
