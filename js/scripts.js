@@ -89,8 +89,8 @@ $(document).ready(function() {
     $("#jQueryDef").toggle();
   })
 
-  $(".clickAttributes").click(function() {
-    $("#attributesName").toggle();
-    $("#attributesDef").toggle();
+  $(".clickAttribute").click(function() {
+    $("#attributeName").toggle();
+    $("#attributeDef").toggle();
   })
 })
